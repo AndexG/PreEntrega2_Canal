@@ -1,0 +1,19 @@
+.cart-widget{   
+    border: none;
+    border-radius: 20px;
+    color: #fafafa;
+    font-size: 1rem;
+    padding: 0.2rem;
+    cursor: pointer;
+    background: linear-gradient(to top,#009e91,#00f8c6);
+    transition: 0,3s;
+    width: 3vw;
+    margin-left: 5.5rem;
+}
+
+p{
+    margin: 0%;
+    text-align: center;
+    padding: 0.2rem;
+    margin-left: 6rem;
+}
